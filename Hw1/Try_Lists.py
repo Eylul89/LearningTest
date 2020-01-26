@@ -38,5 +38,5 @@ print(myTuple)
 myNewList = ["Eylul", 30, "Ferhat", 30]
 print(myNewList)
 
-MyList.remove("Jacob")
+MyList.remove("Ahmed")
 print(MyList)
