@@ -25,6 +25,10 @@ myList.pop(0)
 myList.pop(0)
 print(myList)
 
+# feyyy test changes
+feyyyList = ["aa"]
+print(feyyyList)
+
 # Creates a tuple, a sequence of immutable Python objects that cannot be changed
 myTuple = ('Python', 100, 'VBA', False)
 print(myTuple)
