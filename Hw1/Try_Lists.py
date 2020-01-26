@@ -31,3 +31,6 @@ print(myTuple)
 
 
 #New change
+myNewList = ["Eylul", 30, "Ferhat", 30]
+print(myNewList)
+
